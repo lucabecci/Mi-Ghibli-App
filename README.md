@@ -17,4 +17,4 @@ Esta aplicación se realizo con webpack, javascript y node. Se mostrara todas la
 >[Link de la imagen usada para las cartas](https://www.pinterest.ca/pin/416934877986450507/)
 
 
-![image](https://github.com/lucabecci/Mi-Ghibli-App/blob/master/git.png)
+![image](https://github.com/lucabecci/Mi-Ghibli-App/blob/master/git.png)s
