@@ -1,5 +1,6 @@
 # Ghibli App
 >[website](https://lucabecci.github.io/Mi-Ghibli-App/)
+
 Gracias por visitar [Ghibli App](https://github.io/lucabecci/ghibliapp)
 
 Esta aplicación se realizo con webpack, javascript y node. Se mostrara todas las películas del estudio Ghibli actualmente, y mostrara información si se encuentra disponible en netflix(Argentina), mas su información, su fecha de creación y más.
